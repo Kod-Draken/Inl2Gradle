@@ -1,0 +1,29 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+application {
+    mainClass = 'ui.Main'
+}
+
+defaultTasks 'clean', 'compileJava', 'run', 'test', 'javadoc', 'build'
+// "build" makes "clean", "compileJava" and "test" redundant but I wanted to include it anyway.
+// An alternative default task would be: 'clean', 'compileJava', 'run', 'test', 'javadoc', 'jar'
+// "build" also generates distributions, scripts that the alternative default task doesn't.
+
+group = 'se.yrgo.inl2gradle'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation platform('org.junit:junit-bom:5.10.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+}
+
+test {
+    useJUnitPlatform()
+}

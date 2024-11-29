@@ -1,0 +1,17 @@
+-classpath 'C:\\Users\\mdack\\Documents\\Java24\\Utvecklingsverktyg\\gradle ide\\inlamling-2-gradle\\build\\classes\\java\\main;C:\\Users\\mdack\\Documents\\Java24\\Utvecklingsverktyg\\gradle ide\\inlamling-2-gradle\\build\\resources\\main'
+-d 'C:\\Users\\mdack\\Documents\\Java24\\Utvecklingsverktyg\\gradle ide\\inlamling-2-gradle\\build\\docs\\javadoc'
+-doctitle 'inlamling-2-gradle 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'inlamling-2-gradle 1.0-SNAPSHOT API'
+'C:\\Users\\mdack\\Documents\\Java24\\Utvecklingsverktyg\\gradle ide\\inlamling-2-gradle\\src\\main\\java\\models\\Book.java'
+'C:\\Users\\mdack\\Documents\\Java24\\Utvecklingsverktyg\\gradle ide\\inlamling-2-gradle\\src\\main\\java\\models\\BookCatalog.java'
+'C:\\Users\\mdack\\Documents\\Java24\\Utvecklingsverktyg\\gradle ide\\inlamling-2-gradle\\src\\main\\java\\models\\BookNotFoundException.java'
+'C:\\Users\\mdack\\Documents\\Java24\\Utvecklingsverktyg\\gradle ide\\inlamling-2-gradle\\src\\main\\java\\models\\Customer.java'
+'C:\\Users\\mdack\\Documents\\Java24\\Utvecklingsverktyg\\gradle ide\\inlamling-2-gradle\\src\\main\\java\\models\\Loan.java'
+'C:\\Users\\mdack\\Documents\\Java24\\Utvecklingsverktyg\\gradle ide\\inlamling-2-gradle\\src\\main\\java\\models\\LoanAlreadyExistsException.java'
+'C:\\Users\\mdack\\Documents\\Java24\\Utvecklingsverktyg\\gradle ide\\inlamling-2-gradle\\src\\main\\java\\models\\LoanNotFoundException.java'
+'C:\\Users\\mdack\\Documents\\Java24\\Utvecklingsverktyg\\gradle ide\\inlamling-2-gradle\\src\\main\\java\\models\\Material.java'
+'C:\\Users\\mdack\\Documents\\Java24\\Utvecklingsverktyg\\gradle ide\\inlamling-2-gradle\\src\\main\\java\\ui\\Main.java'
+'C:\\Users\\mdack\\Documents\\Java24\\Utvecklingsverktyg\\gradle ide\\inlamling-2-gradle\\src\\main\\java\\utilities\\GenderType.java'
+'C:\\Users\\mdack\\Documents\\Java24\\Utvecklingsverktyg\\gradle ide\\inlamling-2-gradle\\src\\main\\java\\utilities\\LoanStatus.java'
